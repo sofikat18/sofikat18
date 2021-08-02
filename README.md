@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sofikat18 
 - 👀 I’m interested in WebDev (mostly, right now), literature, movies, and also love learning languages!
-- 🌱 I’m currently learning JavaScript
-- 💞️ I have no idea how to colaborate yet, but I'll learn soon!
-- 📫 If you wanna get in touch with me, here's my Discord: Lamia#7728 
+- 🌱 I’m currently improving my abilities as Java Full Stack Developer.
+- 📫 If you wanna get in touch with me, here's my Discord: Lamia#7728 and my Linkedin www.linkedin.com/in/anasofialopezderivera
 
 <!---
 sofikat18/sofikat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
